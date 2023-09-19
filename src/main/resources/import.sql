@@ -1,0 +1,2 @@
+insert into users (username, password, role) values ('caito', '$2a$10$pXdvyvYkJuzhGvlllakbhOHviQRaVpE/ks7xxSyIJ0jSsPSEj88nu', 'ADMINISTRATOR');
+insert into users (username, password, role) values ('rosy', '$2a$10$cCxf/Zcy/roUK2gZqpOebuBQSzjOMN7UjKGIAHMZ5EkgcXdOZKKxS', 'CUSTOMER')
